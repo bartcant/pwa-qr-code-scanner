@@ -11,5 +11,8 @@
     "path": "^0.12.7",
     "run-sequence": "^1.2.2",
     "sw-precache": "^4.2.3"
+  },
+  "resolutions": {
+    "**/event-stream": "^4.0.1"
   }
 }
