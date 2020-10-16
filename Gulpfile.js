@@ -28,7 +28,8 @@ function getAssets(rootDir) {
 
 function serve(rootDir) {
     connect.server({
-        root: rootDir
+        root: rootDir,
+        port: 8081
     });
 }
 
